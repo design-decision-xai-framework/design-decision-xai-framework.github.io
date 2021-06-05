@@ -24,3 +24,7 @@
     font-size: small;
     /*overflow: scroll;*/
 }
+
+p {
+    font-size: 17px; !important;
+}
