@@ -2241,6 +2241,9 @@ pre {
   font-family: monospace, monospace;
   /* 1 */
   font-size: 1em;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  text-align: justify;
   /* 2 */
 }
 
